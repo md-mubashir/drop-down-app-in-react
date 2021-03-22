@@ -1,0 +1,3 @@
+This application demonstrate the use of dropdown in react,
+where user select option from list and respective text box is displayed to user.
+moreover user select a number from the drop-down list and based on selected number text boxes are created for user on screen.
